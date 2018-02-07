@@ -31,4 +31,16 @@ void exo2 (void)
 			fac = 0;
 }
 
+int essayer_code(unsigned short code);
+
+void exo3(void)
+{
+	long n = 0, code = 7147, test = 1
+	while (n != code)
+		{
+			test = 0
+			n = n + 1;
+		}
+	else
+}
 #endif // MY_HEADER_HPP
